@@ -1,5 +1,5 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)]
-<h1 align="center">Hi 👋, I'm Abraar J</h1>
+<h1 align="center">Hi 👋, I'm Abraar </h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif"/>
 
