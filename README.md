@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on Building a patient appointment booking system in a ASP .NET Web API [DoctorFinderHub](https://github.com/Abraar-kanini/DoctorPatientApi)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React js and Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abraar-kanini/Abraar-PortFolio](https://github.com/Abraar-kanini/Abraar-PortFolio)
 
